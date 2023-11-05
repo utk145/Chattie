@@ -27,3 +27,14 @@ npm install
 
 # Running the app
 expo start
+```
+---
+
+<div align="center">
+
+| Snapshot | Snapshot 
+| --- | ---
+| ![1](https://github.com/utk145/Chattie/assets/122993091/e1ea6acb-5c56-4577-b3ef-27e1796f0020) | ![2](https://github.com/utk145/Chattie/assets/122993091/ae628796-a8cb-4caa-a5f7-dd6908567f42) |
+
+</div>
+
